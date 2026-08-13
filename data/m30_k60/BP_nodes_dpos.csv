@@ -1,0 +1,211 @@
+Election_ID,block_id,account_id,stake,event,Timestamp,remarks
+1,,node_0315,71661,init,2026-07-26 00:35:11,BP rank 1; active_stake=71661
+1,,node_0303,69281,init,2026-07-26 00:35:11,BP rank 2; active_stake=69281
+1,,node_0003,64706,init,2026-07-26 00:35:11,BP rank 3; active_stake=64706
+1,,node_0403,58579,init,2026-07-26 00:35:11,BP rank 4; active_stake=58579
+1,,node_0039,50064,init,2026-07-26 00:35:11,BP rank 5; active_stake=50064
+1,,node_0336,46837,init,2026-07-26 00:35:11,BP rank 6; active_stake=46837
+1,,node_0103,46813,init,2026-07-26 00:35:11,BP rank 7; active_stake=46813
+1,,node_0442,43105,init,2026-07-26 00:35:11,BP rank 8; active_stake=43105
+1,,node_0463,42762,init,2026-07-26 00:35:11,BP rank 9; active_stake=42762
+1,,node_0450,42559,init,2026-07-26 00:35:11,BP rank 10; active_stake=42559
+1,,node_0383,42432,init,2026-07-26 00:35:11,BP rank 11; active_stake=42432
+1,,node_0086,41323,init,2026-07-26 00:35:11,BP rank 12; active_stake=41323
+1,,node_0194,40880,init,2026-07-26 00:35:11,BP rank 13; active_stake=40880
+1,,node_0498,40368,init,2026-07-26 00:35:11,BP rank 14; active_stake=40368
+1,,node_0209,39563,init,2026-07-26 00:35:11,BP rank 15; active_stake=39563
+1,,node_0421,37811,init,2026-07-26 00:35:11,BP rank 16; active_stake=37811
+1,,node_0497,37408,init,2026-07-26 00:35:11,BP rank 17; active_stake=37408
+1,,node_0333,35783,init,2026-07-26 00:35:11,BP rank 18; active_stake=35783
+1,,node_0425,35745,init,2026-07-26 00:35:11,BP rank 19; active_stake=35745
+1,,node_0500,35625,init,2026-07-26 00:35:11,BP rank 20; active_stake=35625
+1,,node_0352,35408,init,2026-07-26 00:35:11,BP rank 21; active_stake=35408
+1,,node_0486,35356,init,2026-07-26 00:35:11,BP rank 22; active_stake=35356
+1,,node_0494,34404,init,2026-07-26 00:35:11,BP rank 23; active_stake=34404
+1,,node_0459,34312,init,2026-07-26 00:35:11,BP rank 24; active_stake=34312
+1,,node_0120,33022,init,2026-07-26 00:35:11,BP rank 25; active_stake=33022
+1,,node_0475,32943,init,2026-07-26 00:35:11,BP rank 26; active_stake=32943
+1,,node_0479,32380,init,2026-07-26 00:35:11,BP rank 27; active_stake=32380
+1,,node_0496,31655,init,2026-07-26 00:35:11,BP rank 28; active_stake=31655
+1,,node_0067,31650,init,2026-07-26 00:35:11,BP rank 29; active_stake=31650
+1,,node_0192,31300,init,2026-07-26 00:35:11,BP rank 30; active_stake=31300
+1,block_0028,node_0496,1700,downgraded-out,2026-07-26 00:35:11,missed/invalid 9.3.2; slashed=0.0
+1,block_0028,node_0201,7713,promoted-in,2026-07-26 00:35:11,replaces node_0496 at slot 27
+1,block_0064,node_0403,5607,downgraded-out,2026-07-26 00:35:12,missed/invalid 9.3.2; slashed=0.0
+1,block_0064,node_0020,4508,promoted-in,2026-07-26 00:35:12,replaces node_0403 at slot 3
+1,block_0113,node_0494,7550,downgraded-out,2026-07-26 00:35:12,malicious 9.3.1; slashed=838.88
+1,block_0113,node_0049,7989,promoted-in,2026-07-26 00:35:12,replaces node_0494 at slot 22
+1,block_0141,node_0352,10068,downgraded-out,2026-07-26 00:35:12,malicious 9.3.1; slashed=1118.61
+1,block_0141,node_0077,3279,promoted-in,2026-07-26 00:35:12,replaces node_0352 at slot 20
+1,block_0144,node_0459,5164,downgraded-out,2026-07-26 00:35:13,missed/invalid 9.3.2; slashed=0.0
+1,block_0144,node_0046,3678,promoted-in,2026-07-26 00:35:13,replaces node_0459 at slot 23
+1,block_0155,node_0039,3883,downgraded-out,2026-07-26 00:35:13,malicious 9.3.1; slashed=431.46
+1,block_0155,node_0010,3707,promoted-in,2026-07-26 00:35:13,replaces node_0039 at slot 4
+1,block_0179,node_0067,10853,downgraded-out,2026-07-26 00:35:13,missed/invalid 9.3.2; slashed=0.0
+1,block_0179,node_0406,1856,promoted-in,2026-07-26 00:35:13,replaces node_0067 at slot 28
+1,block_0202,node_0486,8369,downgraded-out,2026-07-26 00:35:13,malicious 9.3.1; slashed=929.86
+1,block_0202,node_0370,2954,promoted-in,2026-07-26 00:35:13,replaces node_0486 at slot 21
+1,block_0216,node_0336,5895,downgraded-out,2026-07-26 00:35:13,malicious 9.3.1; slashed=654.97
+1,block_0216,node_0031,5771,promoted-in,2026-07-26 00:35:13,replaces node_0336 at slot 5
+1,block_0255,node_0209,5253,downgraded-out,2026-07-26 00:35:14,missed/invalid 9.3.2; slashed=0.0
+1,block_0255,node_0271,2422,promoted-in,2026-07-26 00:35:14,replaces node_0209 at slot 14
+1,block_0259,node_0425,6497,downgraded-out,2026-07-26 00:35:14,malicious 9.3.1; slashed=721.9
+1,block_0259,node_0097,7963,promoted-in,2026-07-26 00:35:14,replaces node_0425 at slot 18
+1,block_0285,node_0271,2173,downgraded-out,2026-07-26 00:35:14,malicious 9.3.1; slashed=241.47
+1,block_0285,node_0173,5243,promoted-in,2026-07-26 00:35:14,replaces node_0271 at slot 14
+1,block_0297,node_0479,9560,downgraded-out,2026-07-26 00:35:14,missed/invalid 9.3.2; slashed=0.0
+1,block_0297,node_0157,7573,promoted-in,2026-07-26 00:35:14,replaces node_0479 at slot 26
+2,,node_0133,54283,init,2026-07-26 00:35:14,BP rank 1; active_stake=54283
+2,,node_0401,50173,init,2026-07-26 00:35:14,BP rank 2; active_stake=50173
+2,,node_0386,47511,init,2026-07-26 00:35:14,BP rank 3; active_stake=47511
+2,,node_0100,47342,init,2026-07-26 00:35:14,BP rank 4; active_stake=47342
+2,,node_0084,43259,init,2026-07-26 00:35:14,BP rank 5; active_stake=43259
+2,,node_0443,41122,init,2026-07-26 00:35:14,BP rank 6; active_stake=41122
+2,,node_0161,40794,init,2026-07-26 00:35:14,BP rank 7; active_stake=40794
+2,,node_0256,39311,init,2026-07-26 00:35:14,BP rank 8; active_stake=39311
+2,,node_0461,38573,init,2026-07-26 00:35:14,BP rank 9; active_stake=38573
+2,,node_0302,35638,init,2026-07-26 00:35:14,BP rank 10; active_stake=35638
+2,,node_0307,35375,init,2026-07-26 00:35:14,BP rank 11; active_stake=35375
+2,,node_0285,34930,init,2026-07-26 00:35:14,BP rank 12; active_stake=34930
+2,,node_0093,34173,init,2026-07-26 00:35:14,BP rank 13; active_stake=34173
+2,,node_0435,33396,init,2026-07-26 00:35:14,BP rank 14; active_stake=33396
+2,,node_0282,33338,init,2026-07-26 00:35:14,BP rank 15; active_stake=33338
+2,,node_0060,33187,init,2026-07-26 00:35:14,BP rank 16; active_stake=33187
+2,,node_0052,33098,init,2026-07-26 00:35:14,BP rank 17; active_stake=33098
+2,,node_0493,32860,init,2026-07-26 00:35:14,BP rank 18; active_stake=32860
+2,,node_0343,32477,init,2026-07-26 00:35:14,BP rank 19; active_stake=32477
+2,,node_0484,30566,init,2026-07-26 00:35:14,BP rank 20; active_stake=30566
+2,,node_0114,29019,init,2026-07-26 00:35:14,BP rank 21; active_stake=29019
+2,,node_0424,27722,init,2026-07-26 00:35:14,BP rank 22; active_stake=27722
+2,,node_0489,27255,init,2026-07-26 00:35:14,BP rank 23; active_stake=27255
+2,,node_0359,27047,init,2026-07-26 00:35:14,BP rank 24; active_stake=27047
+2,,node_0080,26453,init,2026-07-26 00:35:14,BP rank 25; active_stake=26453
+2,,node_0270,26451,init,2026-07-26 00:35:14,BP rank 26; active_stake=26451
+2,,node_0107,26410,init,2026-07-26 00:35:14,BP rank 27; active_stake=26410
+2,,node_0138,25869,init,2026-07-26 00:35:14,BP rank 28; active_stake=25869
+2,,node_0141,25366,init,2026-07-26 00:35:14,BP rank 29; active_stake=25366
+2,,node_0193,25192,init,2026-07-26 00:35:14,BP rank 30; active_stake=25192
+2,block_0311,node_0307,6827,downgraded-out,2026-07-26 00:35:15,malicious 9.3.1; slashed=758.59
+2,block_0311,node_0409,2717,promoted-in,2026-07-26 00:35:15,replaces node_0307 at slot 10
+2,block_0326,node_0270,10031,downgraded-out,2026-07-26 00:35:15,missed/invalid 9.3.2; slashed=0.0
+2,block_0326,node_0457,8504,promoted-in,2026-07-26 00:35:15,replaces node_0270 at slot 25
+2,block_0339,node_0461,5294,downgraded-out,2026-07-26 00:35:15,malicious 9.3.1; slashed=588.17
+2,block_0339,node_0239,8097,promoted-in,2026-07-26 00:35:15,replaces node_0461 at slot 8
+2,block_0375,node_0282,7286,downgraded-out,2026-07-26 00:35:15,malicious 9.3.1; slashed=809.52
+2,block_0375,node_0067,10122,promoted-in,2026-07-26 00:35:15,replaces node_0282 at slot 14
+2,block_0394,node_0100,9002,downgraded-out,2026-07-26 00:35:15,missed/invalid 9.3.2; slashed=0.0
+2,block_0394,node_0365,10256,promoted-in,2026-07-26 00:35:15,replaces node_0100 at slot 3
+2,block_0412,node_0424,6527,downgraded-out,2026-07-26 00:35:16,malicious 9.3.1; slashed=725.18
+2,block_0412,node_0482,4553,promoted-in,2026-07-26 00:35:16,replaces node_0424 at slot 21
+2,block_0425,node_0084,9266,downgraded-out,2026-07-26 00:35:16,missed/invalid 9.3.2; slashed=0.0
+2,block_0425,node_0046,4549,promoted-in,2026-07-26 00:35:16,replaces node_0084 at slot 4
+2,block_0430,node_0302,5293,downgraded-out,2026-07-26 00:35:16,missed/invalid 9.3.2; slashed=0.0
+2,block_0430,node_0168,10545,promoted-in,2026-07-26 00:35:16,replaces node_0302 at slot 9
+2,block_0514,node_0365,11503,downgraded-out,2026-07-26 00:35:17,missed/invalid 9.3.2; slashed=0.0
+2,block_0514,node_0370,3787,promoted-in,2026-07-26 00:35:17,replaces node_0365 at slot 3
+2,block_0535,node_0080,10072,downgraded-out,2026-07-26 00:35:17,missed/invalid 9.3.2; slashed=0.0
+2,block_0535,node_0034,7167,promoted-in,2026-07-26 00:35:17,replaces node_0080 at slot 24
+2,block_0546,node_0443,6315,downgraded-out,2026-07-26 00:35:17,malicious 9.3.1; slashed=701.72
+2,block_0546,node_0149,7927,promoted-in,2026-07-26 00:35:17,replaces node_0443 at slot 5
+2,block_0553,node_0093,9558,downgraded-out,2026-07-26 00:35:17,missed/invalid 9.3.2; slashed=0.0
+2,block_0553,node_0422,8412,promoted-in,2026-07-26 00:35:17,replaces node_0093 at slot 12
+2,block_0554,node_0435,6550,downgraded-out,2026-07-26 00:35:17,malicious 9.3.1; slashed=727.82
+2,block_0554,node_0221,4976,promoted-in,2026-07-26 00:35:17,replaces node_0435 at slot 13
+2,block_0565,node_0034,6805,downgraded-out,2026-07-26 00:35:17,missed/invalid 9.3.2; slashed=0.0
+2,block_0565,node_0312,2159,promoted-in,2026-07-26 00:35:17,replaces node_0034 at slot 24
+2,block_0573,node_0386,10179,downgraded-out,2026-07-26 00:35:18,malicious 9.3.1; slashed=1131.0
+2,block_0573,node_0135,5092,promoted-in,2026-07-26 00:35:18,replaces node_0386 at slot 2
+3,,node_0104,68611,init,2026-07-26 00:35:18,BP rank 1; active_stake=68611
+3,,node_0007,59709,init,2026-07-26 00:35:18,BP rank 2; active_stake=59709
+3,,node_0439,56189,init,2026-07-26 00:35:18,BP rank 3; active_stake=56189
+3,,node_0472,54700,init,2026-07-26 00:35:18,BP rank 4; active_stake=54700
+3,,node_0036,47799,init,2026-07-26 00:35:18,BP rank 5; active_stake=47799
+3,,node_0358,47591,init,2026-07-26 00:35:18,BP rank 6; active_stake=47591
+3,,node_0311,46762,init,2026-07-26 00:35:18,BP rank 7; active_stake=46762
+3,,node_0093,44877,init,2026-07-26 00:35:18,BP rank 8; active_stake=44877
+3,,node_0373,42832,init,2026-07-26 00:35:18,BP rank 9; active_stake=42832
+3,,node_0500,41122,init,2026-07-26 00:35:18,BP rank 10; active_stake=41122
+3,,node_0107,38910,init,2026-07-26 00:35:18,BP rank 11; active_stake=38910
+3,,node_0280,38665,init,2026-07-26 00:35:18,BP rank 12; active_stake=38665
+3,,node_0261,37447,init,2026-07-26 00:35:18,BP rank 13; active_stake=37447
+3,,node_0322,35062,init,2026-07-26 00:35:18,BP rank 14; active_stake=35062
+3,,node_0495,34978,init,2026-07-26 00:35:18,BP rank 15; active_stake=34978
+3,,node_0381,34791,init,2026-07-26 00:35:18,BP rank 16; active_stake=34791
+3,,node_0486,34391,init,2026-07-26 00:35:18,BP rank 17; active_stake=34391
+3,,node_0484,34019,init,2026-07-26 00:35:18,BP rank 18; active_stake=34019
+3,,node_0263,33558,init,2026-07-26 00:35:18,BP rank 19; active_stake=33558
+3,,node_0170,32655,init,2026-07-26 00:35:18,BP rank 20; active_stake=32655
+3,,node_0327,32554,init,2026-07-26 00:35:18,BP rank 21; active_stake=32554
+3,,node_0123,32546,init,2026-07-26 00:35:18,BP rank 22; active_stake=32546
+3,,node_0277,30491,init,2026-07-26 00:35:18,BP rank 23; active_stake=30491
+3,,node_0211,29744,init,2026-07-26 00:35:18,BP rank 24; active_stake=29744
+3,,node_0330,29723,init,2026-07-26 00:35:18,BP rank 25; active_stake=29723
+3,,node_0138,28852,init,2026-07-26 00:35:18,BP rank 26; active_stake=28852
+3,,node_0440,26740,init,2026-07-26 00:35:18,BP rank 27; active_stake=26740
+3,,node_0201,26651,init,2026-07-26 00:35:18,BP rank 28; active_stake=26651
+3,,node_0356,26465,init,2026-07-26 00:35:18,BP rank 29; active_stake=26465
+3,,node_0199,25682,init,2026-07-26 00:35:18,BP rank 30; active_stake=25682
+3,block_0656,node_0138,13138,downgraded-out,2026-07-26 00:35:19,missed/invalid 9.3.2; slashed=0.0
+3,block_0656,node_0461,4343,promoted-in,2026-07-26 00:35:19,replaces node_0138 at slot 25
+3,block_0678,node_0484,12420,downgraded-out,2026-07-26 00:35:19,missed/invalid 9.3.2; slashed=0.0
+3,block_0678,node_0166,6704,promoted-in,2026-07-26 00:35:19,replaces node_0484 at slot 17
+3,block_0701,node_0107,13407,downgraded-out,2026-07-26 00:35:19,malicious 9.3.1; slashed=1489.69
+3,block_0701,node_0096,3244,promoted-in,2026-07-26 00:35:19,replaces node_0107 at slot 10
+3,block_0703,node_0261,6914,downgraded-out,2026-07-26 00:35:19,malicious 9.3.1; slashed=768.26
+3,block_0703,node_0001,1509,promoted-in,2026-07-26 00:35:19,replaces node_0261 at slot 12
+3,block_0722,node_0007,5283,downgraded-out,2026-07-26 00:35:19,malicious 9.3.1; slashed=587.01
+3,block_0722,node_0238,11712,promoted-in,2026-07-26 00:35:19,replaces node_0007 at slot 1
+3,block_0723,node_0439,6547,downgraded-out,2026-07-26 00:35:19,malicious 9.3.1; slashed=727.49
+3,block_0723,node_0219,5517,promoted-in,2026-07-26 00:35:19,replaces node_0439 at slot 2
+3,block_0742,node_0123,7261,downgraded-out,2026-07-26 00:35:20,missed/invalid 9.3.2; slashed=0.0
+3,block_0742,node_0045,774,promoted-in,2026-07-26 00:35:20,replaces node_0123 at slot 21
+3,block_0765,node_0495,6873,downgraded-out,2026-07-26 00:35:20,malicious 9.3.1; slashed=763.63
+3,block_0765,node_0387,8137,promoted-in,2026-07-26 00:35:20,replaces node_0495 at slot 14
+3,block_0785,node_0036,11101,downgraded-out,2026-07-26 00:35:20,missed/invalid 9.3.2; slashed=0.0
+3,block_0785,node_0237,247,promoted-in,2026-07-26 00:35:20,replaces node_0036 at slot 4
+3,block_0811,node_0104,8958,downgraded-out,2026-07-26 00:35:20,malicious 9.3.1; slashed=995.36
+3,block_0811,node_0384,10586,promoted-in,2026-07-26 00:35:20,replaces node_0104 at slot 0
+3,block_0822,node_0280,10928,downgraded-out,2026-07-26 00:35:21,malicious 9.3.1; slashed=1214.19
+3,block_0822,node_0421,8120,promoted-in,2026-07-26 00:35:21,replaces node_0280 at slot 11
+3,block_0827,node_0486,9400,downgraded-out,2026-07-26 00:35:21,missed/invalid 9.3.2; slashed=0.0
+3,block_0827,node_0121,6818,promoted-in,2026-07-26 00:35:21,replaces node_0486 at slot 16
+3,block_0833,node_0277,12254,downgraded-out,2026-07-26 00:35:21,missed/invalid 9.3.2; slashed=0.0
+3,block_0833,node_0172,12265,promoted-in,2026-07-26 00:35:21,replaces node_0277 at slot 22
+3,block_0835,node_0330,9585,downgraded-out,2026-07-26 00:35:21,malicious 9.3.1; slashed=1064.97
+3,block_0835,node_0259,3644,promoted-in,2026-07-26 00:35:21,replaces node_0330 at slot 24
+3,block_0867,node_0440,9964,downgraded-out,2026-07-26 00:35:21,missed/invalid 9.3.2; slashed=0.0
+3,block_0867,node_0118,5562,promoted-in,2026-07-26 00:35:21,replaces node_0440 at slot 26
+3,block_0881,node_0096,3887,downgraded-out,2026-07-26 00:35:21,malicious 9.3.1; slashed=431.84
+3,block_0881,node_0129,9108,promoted-in,2026-07-26 00:35:21,replaces node_0096 at slot 10
+3,block_0897,node_0118,5204,downgraded-out,2026-07-26 00:35:22,malicious 9.3.1; slashed=578.23
+3,block_0897,node_0185,5372,promoted-in,2026-07-26 00:35:22,replaces node_0118 at slot 26
+4,,node_0147,79749,init,2026-07-26 00:35:22,BP rank 1; active_stake=79749
+4,,node_0121,57738,init,2026-07-26 00:35:22,BP rank 2; active_stake=57738
+4,,node_0277,52329,init,2026-07-26 00:35:22,BP rank 3; active_stake=52329
+4,,node_0478,48308,init,2026-07-26 00:35:22,BP rank 4; active_stake=48308
+4,,node_0447,48065,init,2026-07-26 00:35:22,BP rank 5; active_stake=48065
+4,,node_0211,45114,init,2026-07-26 00:35:22,BP rank 6; active_stake=45114
+4,,node_0488,42388,init,2026-07-26 00:35:22,BP rank 7; active_stake=42388
+4,,node_0255,41573,init,2026-07-26 00:35:22,BP rank 8; active_stake=41573
+4,,node_0250,39682,init,2026-07-26 00:35:22,BP rank 9; active_stake=39682
+4,,node_0409,39455,init,2026-07-26 00:35:22,BP rank 10; active_stake=39455
+4,,node_0246,38361,init,2026-07-26 00:35:22,BP rank 11; active_stake=38361
+4,,node_0459,38054,init,2026-07-26 00:35:22,BP rank 12; active_stake=38054
+4,,node_0053,36764,init,2026-07-26 00:35:22,BP rank 13; active_stake=36764
+4,,node_0097,36167,init,2026-07-26 00:35:22,BP rank 14; active_stake=36167
+4,,node_0442,35860,init,2026-07-26 00:35:22,BP rank 15; active_stake=35860
+4,,node_0480,35642,init,2026-07-26 00:35:22,BP rank 16; active_stake=35642
+4,,node_0175,33115,init,2026-07-26 00:35:22,BP rank 17; active_stake=33115
+4,,node_0311,32987,init,2026-07-26 00:35:22,BP rank 18; active_stake=32987
+4,,node_0028,32537,init,2026-07-26 00:35:22,BP rank 19; active_stake=32537
+4,,node_0419,32489,init,2026-07-26 00:35:22,BP rank 20; active_stake=32489
+4,,node_0393,32315,init,2026-07-26 00:35:22,BP rank 21; active_stake=32315
+4,,node_0434,31946,init,2026-07-26 00:35:22,BP rank 22; active_stake=31946
+4,,node_0240,31420,init,2026-07-26 00:35:22,BP rank 23; active_stake=31420
+4,,node_0251,31361,init,2026-07-26 00:35:22,BP rank 24; active_stake=31361
+4,,node_0457,30175,init,2026-07-26 00:35:22,BP rank 25; active_stake=30175
+4,,node_0200,29545,init,2026-07-26 00:35:22,BP rank 26; active_stake=29545
+4,,node_0358,29538,init,2026-07-26 00:35:22,BP rank 27; active_stake=29538
+4,,node_0228,29281,init,2026-07-26 00:35:22,BP rank 28; active_stake=29281
+4,,node_0113,28955,init,2026-07-26 00:35:22,BP rank 29; active_stake=28955
+4,,node_0096,26429,init,2026-07-26 00:35:22,BP rank 30; active_stake=26429
