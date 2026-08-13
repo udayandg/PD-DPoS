@@ -1,0 +1,309 @@
+Election_ID,block_id,account_id,stake,event,Timestamp,remarks
+1,,node_0466,63355,init,2026-07-26 00:34:00,CBP(backup) rank 1
+1,,node_0039,62412,init,2026-07-26 00:34:00,CBP(backup) rank 2
+1,,node_0397,61817,init,2026-07-26 00:34:00,CBP(backup) rank 3
+1,,node_0468,59482,init,2026-07-26 00:34:00,CBP(backup) rank 4
+1,,node_0304,58904,init,2026-07-26 00:34:00,CBP(backup) rank 5
+1,,node_0370,58713,init,2026-07-26 00:34:00,CBP(backup) rank 6
+1,,node_0052,56315,init,2026-07-26 00:34:00,CBP(backup) rank 7
+1,,node_0452,56212,init,2026-07-26 00:34:00,CBP(backup) rank 8
+1,,node_0289,55457,init,2026-07-26 00:34:00,CBP(backup) rank 9
+1,,node_0083,53084,init,2026-07-26 00:34:00,CBP(backup) rank 10
+1,,node_0192,52479,init,2026-07-26 00:34:00,CBP(backup) rank 11
+1,,node_0333,49309,init,2026-07-26 00:34:00,CBP(backup) rank 12
+1,,node_0285,47955,init,2026-07-26 00:34:00,CBP(backup) rank 13
+1,,node_0400,47375,init,2026-07-26 00:34:00,CBP(backup) rank 14
+1,,node_0360,47117,init,2026-07-26 00:34:00,CBP(backup) rank 15
+1,,node_0442,46249,init,2026-07-26 00:34:00,CBP(backup) rank 16
+1,,node_0403,45246,init,2026-07-26 00:34:00,CBP(backup) rank 17
+1,,node_0312,44429,init,2026-07-26 00:34:00,CBP(backup) rank 18
+1,,node_0463,44020,init,2026-07-26 00:34:00,CBP(backup) rank 19
+1,,node_0031,43514,init,2026-07-26 00:34:00,CBP(backup) rank 20
+1,block_0028,node_0466,5972,promoted-out,2026-07-26 00:34:00,promoted to replace node_0352
+1,block_0028,node_0352,10105,enqueued,2026-07-26 00:34:00,appended to backups queue (no cooldown)
+1,block_0064,node_0039,2997,promoted-out,2026-07-26 00:34:00,promoted to replace node_0484
+1,block_0064,node_0484,9894,enqueued,2026-07-26 00:34:00,appended to backups queue (no cooldown)
+2,,node_0404,74265,init,2026-07-26 00:34:01,CBP(backup) rank 1
+2,,node_0226,72067,init,2026-07-26 00:34:01,CBP(backup) rank 2
+2,,node_0269,71442,init,2026-07-26 00:34:01,CBP(backup) rank 3
+2,,node_0067,71337,init,2026-07-26 00:34:01,CBP(backup) rank 4
+2,,node_0084,66322,init,2026-07-26 00:34:01,CBP(backup) rank 5
+2,,node_0480,66124,init,2026-07-26 00:34:01,CBP(backup) rank 6
+2,,node_0461,66061,init,2026-07-26 00:34:01,CBP(backup) rank 7
+2,,node_0160,65355,init,2026-07-26 00:34:01,CBP(backup) rank 8
+2,,node_0290,64726,init,2026-07-26 00:34:01,CBP(backup) rank 9
+2,,node_0435,62512,init,2026-07-26 00:34:01,CBP(backup) rank 10
+2,,node_0401,60445,init,2026-07-26 00:34:01,CBP(backup) rank 11
+2,,node_0041,60116,init,2026-07-26 00:34:01,CBP(backup) rank 12
+2,,node_0015,58052,init,2026-07-26 00:34:01,CBP(backup) rank 13
+2,,node_0481,57639,init,2026-07-26 00:34:01,CBP(backup) rank 14
+2,,node_0305,53707,init,2026-07-26 00:34:01,CBP(backup) rank 15
+2,,node_0354,51992,init,2026-07-26 00:34:01,CBP(backup) rank 16
+2,,node_0114,43064,init,2026-07-26 00:34:01,CBP(backup) rank 17
+2,,node_0239,42779,init,2026-07-26 00:34:01,CBP(backup) rank 18
+2,,node_0285,42518,init,2026-07-26 00:34:01,CBP(backup) rank 19
+2,,node_0336,42154,init,2026-07-26 00:34:01,CBP(backup) rank 20
+2,block_0113,node_0404,54,promoted-out,2026-07-26 00:34:01,promoted to replace node_0386
+2,block_0113,node_0386,7952,cooldown,2026-07-26 00:34:01,waits 5 rounds before rejoining backups
+2,block_0141,node_0226,3350,promoted-out,2026-07-26 00:34:01,promoted to replace node_0439
+2,block_0141,node_0439,7391,cooldown,2026-07-26 00:34:01,waits 5 rounds before rejoining backups
+2,block_0144,node_0269,7392,promoted-out,2026-07-26 00:34:01,promoted to replace node_0333
+2,block_0144,node_0333,8802,enqueued,2026-07-26 00:34:01,appended to backups queue (no cooldown)
+2,block_0155,node_0067,11358,promoted-out,2026-07-26 00:34:01,promoted to replace node_0347
+2,block_0155,node_0347,5720,cooldown,2026-07-26 00:34:01,waits 5 rounds before rejoining backups
+2,block_0160,node_0386,8053,rejoin,2026-07-26 00:34:01,cooldown complete; back in backups queue
+2,block_0179,node_0084,9693,promoted-out,2026-07-26 00:34:02,promoted to replace node_0048
+2,block_0179,node_0048,10585,enqueued,2026-07-26 00:34:02,appended to backups queue (no cooldown)
+2,block_0190,node_0439,6887,rejoin,2026-07-26 00:34:02,cooldown complete; back in backups queue
+2,block_0200,node_0347,6228,rejoin,2026-07-26 00:34:02,cooldown complete; back in backups queue
+3,,node_0238,71062,init,2026-07-26 00:34:02,CBP(backup) rank 1
+3,,node_0461,67938,init,2026-07-26 00:34:02,CBP(backup) rank 2
+3,,node_0034,66664,init,2026-07-26 00:34:02,CBP(backup) rank 3
+3,,node_0280,66003,init,2026-07-26 00:34:02,CBP(backup) rank 4
+3,,node_0172,64836,init,2026-07-26 00:34:02,CBP(backup) rank 5
+3,,node_0152,63521,init,2026-07-26 00:34:02,CBP(backup) rank 6
+3,,node_0287,62910,init,2026-07-26 00:34:02,CBP(backup) rank 7
+3,,node_0368,62156,init,2026-07-26 00:34:02,CBP(backup) rank 8
+3,,node_0207,61772,init,2026-07-26 00:34:02,CBP(backup) rank 9
+3,,node_0460,61134,init,2026-07-26 00:34:02,CBP(backup) rank 10
+3,,node_0353,60679,init,2026-07-26 00:34:02,CBP(backup) rank 11
+3,,node_0358,59049,init,2026-07-26 00:34:02,CBP(backup) rank 12
+3,,node_0462,58498,init,2026-07-26 00:34:02,CBP(backup) rank 13
+3,,node_0277,57017,init,2026-07-26 00:34:02,CBP(backup) rank 14
+3,,node_0032,56783,init,2026-07-26 00:34:02,CBP(backup) rank 15
+3,,node_0201,56177,init,2026-07-26 00:34:02,CBP(backup) rank 16
+3,,node_0045,54814,init,2026-07-26 00:34:02,CBP(backup) rank 17
+3,,node_0350,54408,init,2026-07-26 00:34:02,CBP(backup) rank 18
+3,,node_0276,54144,init,2026-07-26 00:34:02,CBP(backup) rank 19
+3,,node_0114,48708,init,2026-07-26 00:34:02,CBP(backup) rank 20
+3,block_0202,node_0238,8515,promoted-out,2026-07-26 00:34:02,promoted to replace node_0017
+3,block_0202,node_0017,1212,cooldown,2026-07-26 00:34:02,waits 5 rounds before rejoining backups
+3,block_0216,node_0461,5824,promoted-out,2026-07-26 00:34:02,promoted to replace node_0176
+3,block_0216,node_0176,955,cooldown,2026-07-26 00:34:02,waits 5 rounds before rejoining backups
+3,block_0250,node_0017,1349,rejoin,2026-07-26 00:34:02,cooldown complete; back in backups queue
+3,block_0255,node_0034,7167,promoted-out,2026-07-26 00:34:02,promoted to replace node_0233
+3,block_0255,node_0233,4702,enqueued,2026-07-26 00:34:02,appended to backups queue (no cooldown)
+3,block_0259,node_0280,7527,promoted-out,2026-07-26 00:34:02,promoted to replace node_0174
+3,block_0259,node_0174,3277,cooldown,2026-07-26 00:34:02,waits 5 rounds before rejoining backups
+3,block_0260,node_0176,588,rejoin,2026-07-26 00:34:02,cooldown complete; back in backups queue
+3,block_0285,node_0172,7897,promoted-out,2026-07-26 00:34:03,promoted to replace node_0034
+3,block_0285,node_0034,6911,cooldown,2026-07-26 00:34:03,waits 5 rounds before rejoining backups
+3,block_0297,node_0152,2853,promoted-out,2026-07-26 00:34:03,promoted to replace node_0001
+3,block_0297,node_0001,2456,enqueued,2026-07-26 00:34:03,appended to backups queue (no cooldown)
+3,block_0300,node_0174,3366,rejoin,2026-07-26 00:34:03,cooldown complete; back in backups queue
+4,,node_0175,68808,init,2026-07-26 00:34:03,CBP(backup) rank 1
+4,,node_0500,68493,init,2026-07-26 00:34:03,CBP(backup) rank 2
+4,,node_0259,68001,init,2026-07-26 00:34:03,CBP(backup) rank 3
+4,,node_0343,67732,init,2026-07-26 00:34:03,CBP(backup) rank 4
+4,,node_0097,67642,init,2026-07-26 00:34:03,CBP(backup) rank 5
+4,,node_0366,67267,init,2026-07-26 00:34:03,CBP(backup) rank 6
+4,,node_0415,65155,init,2026-07-26 00:34:03,CBP(backup) rank 7
+4,,node_0055,63340,init,2026-07-26 00:34:03,CBP(backup) rank 8
+4,,node_0079,60044,init,2026-07-26 00:34:03,CBP(backup) rank 9
+4,,node_0426,58668,init,2026-07-26 00:34:03,CBP(backup) rank 10
+4,,node_0014,57751,init,2026-07-26 00:34:03,CBP(backup) rank 11
+4,,node_0221,57620,init,2026-07-26 00:34:03,CBP(backup) rank 12
+4,,node_0429,56553,init,2026-07-26 00:34:03,CBP(backup) rank 13
+4,,node_0156,47023,init,2026-07-26 00:34:03,CBP(backup) rank 14
+4,,node_0369,46999,init,2026-07-26 00:34:03,CBP(backup) rank 15
+4,,node_0367,46028,init,2026-07-26 00:34:03,CBP(backup) rank 16
+4,,node_0108,44484,init,2026-07-26 00:34:03,CBP(backup) rank 17
+4,,node_0467,43661,init,2026-07-26 00:34:03,CBP(backup) rank 18
+4,,node_0394,43392,init,2026-07-26 00:34:03,CBP(backup) rank 19
+4,,node_0327,43009,init,2026-07-26 00:34:03,CBP(backup) rank 20
+4,block_0311,node_0175,5156,promoted-out,2026-07-26 00:34:03,promoted to replace node_0032
+4,block_0311,node_0032,7181,cooldown,2026-07-26 00:34:03,waits 5 rounds before rejoining backups
+4,block_0326,node_0500,6158,promoted-out,2026-07-26 00:34:03,promoted to replace node_0036
+4,block_0326,node_0036,9307,enqueued,2026-07-26 00:34:03,appended to backups queue (no cooldown)
+4,block_0339,node_0259,4699,promoted-out,2026-07-26 00:34:03,promoted to replace node_0263
+4,block_0339,node_0263,7280,cooldown,2026-07-26 00:34:03,waits 5 rounds before rejoining backups
+4,block_0360,node_0032,6841,rejoin,2026-07-26 00:34:03,cooldown complete; back in backups queue
+4,block_0375,node_0343,10123,promoted-out,2026-07-26 00:34:04,promoted to replace node_0334
+4,block_0375,node_0334,9420,cooldown,2026-07-26 00:34:04,waits 5 rounds before rejoining backups
+4,block_0380,node_0263,7831,rejoin,2026-07-26 00:34:04,cooldown complete; back in backups queue
+4,block_0394,node_0097,7690,promoted-out,2026-07-26 00:34:04,promoted to replace node_0121
+4,block_0394,node_0121,6033,enqueued,2026-07-26 00:34:04,appended to backups queue (no cooldown)
+5,,node_0166,77743,init,2026-07-26 00:34:04,CBP(backup) rank 1
+5,,node_0294,71792,init,2026-07-26 00:34:04,CBP(backup) rank 2
+5,,node_0045,67153,init,2026-07-26 00:34:04,CBP(backup) rank 3
+5,,node_0414,66971,init,2026-07-26 00:34:04,CBP(backup) rank 4
+5,,node_0327,62909,init,2026-07-26 00:34:04,CBP(backup) rank 5
+5,,node_0458,60145,init,2026-07-26 00:34:04,CBP(backup) rank 6
+5,,node_0154,58655,init,2026-07-26 00:34:04,CBP(backup) rank 7
+5,,node_0457,57376,init,2026-07-26 00:34:04,CBP(backup) rank 8
+5,,node_0189,55879,init,2026-07-26 00:34:04,CBP(backup) rank 9
+5,,node_0483,55373,init,2026-07-26 00:34:04,CBP(backup) rank 10
+5,,node_0449,54530,init,2026-07-26 00:34:04,CBP(backup) rank 11
+5,,node_0184,51100,init,2026-07-26 00:34:04,CBP(backup) rank 12
+5,,node_0175,51025,init,2026-07-26 00:34:04,CBP(backup) rank 13
+5,,node_0029,49571,init,2026-07-26 00:34:04,CBP(backup) rank 14
+5,,node_0415,44205,init,2026-07-26 00:34:04,CBP(backup) rank 15
+5,,node_0396,44188,init,2026-07-26 00:34:04,CBP(backup) rank 16
+5,,node_0451,43284,init,2026-07-26 00:34:04,CBP(backup) rank 17
+5,,node_0282,42834,init,2026-07-26 00:34:04,CBP(backup) rank 18
+5,,node_0448,41875,init,2026-07-26 00:34:04,CBP(backup) rank 19
+5,,node_0049,41140,init,2026-07-26 00:34:04,CBP(backup) rank 20
+5,block_0412,node_0166,6322,promoted-out,2026-07-26 00:34:04,promoted to replace node_0211
+5,block_0412,node_0211,9362,cooldown,2026-07-26 00:34:04,waits 5 rounds before rejoining backups
+5,block_0425,node_0294,8796,promoted-out,2026-07-26 00:34:04,promoted to replace node_0023
+5,block_0425,node_0023,10140,enqueued,2026-07-26 00:34:04,appended to backups queue (no cooldown)
+5,block_0430,node_0045,1295,promoted-out,2026-07-26 00:34:04,promoted to replace node_0405
+5,block_0430,node_0405,9617,enqueued,2026-07-26 00:34:04,appended to backups queue (no cooldown)
+5,block_0460,node_0211,9636,rejoin,2026-07-26 00:34:05,cooldown complete; back in backups queue
+6,,node_0078,80588,init,2026-07-26 00:34:05,CBP(backup) rank 1
+6,,node_0228,79564,init,2026-07-26 00:34:05,CBP(backup) rank 2
+6,,node_0301,77694,init,2026-07-26 00:34:05,CBP(backup) rank 3
+6,,node_0037,73798,init,2026-07-26 00:34:05,CBP(backup) rank 4
+6,,node_0001,73373,init,2026-07-26 00:34:05,CBP(backup) rank 5
+6,,node_0135,69513,init,2026-07-26 00:34:05,CBP(backup) rank 6
+6,,node_0153,67556,init,2026-07-26 00:34:05,CBP(backup) rank 7
+6,,node_0325,66386,init,2026-07-26 00:34:05,CBP(backup) rank 8
+6,,node_0458,60290,init,2026-07-26 00:34:05,CBP(backup) rank 9
+6,,node_0391,56006,init,2026-07-26 00:34:05,CBP(backup) rank 10
+6,,node_0461,55780,init,2026-07-26 00:34:05,CBP(backup) rank 11
+6,,node_0029,53816,init,2026-07-26 00:34:05,CBP(backup) rank 12
+6,,node_0158,51666,init,2026-07-26 00:34:05,CBP(backup) rank 13
+6,,node_0447,44084,init,2026-07-26 00:34:05,CBP(backup) rank 14
+6,,node_0005,42137,init,2026-07-26 00:34:05,CBP(backup) rank 15
+6,,node_0402,39305,init,2026-07-26 00:34:05,CBP(backup) rank 16
+6,,node_0148,38629,init,2026-07-26 00:34:05,CBP(backup) rank 17
+6,,node_0016,37072,init,2026-07-26 00:34:05,CBP(backup) rank 18
+6,,node_0159,36609,init,2026-07-26 00:34:05,CBP(backup) rank 19
+6,,node_0338,36450,init,2026-07-26 00:34:05,CBP(backup) rank 20
+6,block_0514,node_0078,300,promoted-out,2026-07-26 00:34:05,promoted to replace node_0477
+6,block_0514,node_0477,3813,enqueued,2026-07-26 00:34:05,appended to backups queue (no cooldown)
+6,block_0535,node_0228,4554,promoted-out,2026-07-26 00:34:05,promoted to replace node_0048
+6,block_0535,node_0048,13271,enqueued,2026-07-26 00:34:05,appended to backups queue (no cooldown)
+6,block_0546,node_0301,694,promoted-out,2026-07-26 00:34:06,promoted to replace node_0296
+6,block_0546,node_0296,2361,cooldown,2026-07-26 00:34:06,waits 5 rounds before rejoining backups
+6,block_0553,node_0037,305,promoted-out,2026-07-26 00:34:06,promoted to replace node_0166
+6,block_0553,node_0166,8172,enqueued,2026-07-26 00:34:06,appended to backups queue (no cooldown)
+6,block_0554,node_0001,2697,promoted-out,2026-07-26 00:34:06,promoted to replace node_0078
+6,block_0554,node_0078,1301,cooldown,2026-07-26 00:34:06,waits 5 rounds before rejoining backups
+6,block_0565,node_0135,6032,promoted-out,2026-07-26 00:34:06,promoted to replace node_0228
+6,block_0565,node_0228,4994,enqueued,2026-07-26 00:34:06,appended to backups queue (no cooldown)
+6,block_0573,node_0153,138,promoted-out,2026-07-26 00:34:06,promoted to replace node_0037
+6,block_0573,node_0037,377,cooldown,2026-07-26 00:34:06,waits 5 rounds before rejoining backups
+6,block_0590,node_0296,2428,rejoin,2026-07-26 00:34:06,cooldown complete; back in backups queue
+6,block_0600,node_0078,1755,rejoin,2026-07-26 00:34:06,cooldown complete; back in backups queue
+7,,node_0219,62910,init,2026-07-26 00:34:06,CBP(backup) rank 1
+7,,node_0305,61538,init,2026-07-26 00:34:06,CBP(backup) rank 2
+7,,node_0026,61146,init,2026-07-26 00:34:06,CBP(backup) rank 3
+7,,node_0363,60922,init,2026-07-26 00:34:06,CBP(backup) rank 4
+7,,node_0354,60840,init,2026-07-26 00:34:06,CBP(backup) rank 5
+7,,node_0017,56948,init,2026-07-26 00:34:06,CBP(backup) rank 6
+7,,node_0062,54932,init,2026-07-26 00:34:06,CBP(backup) rank 7
+7,,node_0319,54081,init,2026-07-26 00:34:06,CBP(backup) rank 8
+7,,node_0229,52506,init,2026-07-26 00:34:06,CBP(backup) rank 9
+7,,node_0343,51051,init,2026-07-26 00:34:06,CBP(backup) rank 10
+7,,node_0091,49092,init,2026-07-26 00:34:06,CBP(backup) rank 11
+7,,node_0455,48238,init,2026-07-26 00:34:06,CBP(backup) rank 12
+7,,node_0499,47386,init,2026-07-26 00:34:06,CBP(backup) rank 13
+7,,node_0151,46275,init,2026-07-26 00:34:06,CBP(backup) rank 14
+7,,node_0116,45987,init,2026-07-26 00:34:06,CBP(backup) rank 15
+7,,node_0380,43109,init,2026-07-26 00:34:06,CBP(backup) rank 16
+7,,node_0286,42839,init,2026-07-26 00:34:06,CBP(backup) rank 17
+7,,node_0410,42232,init,2026-07-26 00:34:06,CBP(backup) rank 18
+7,,node_0166,41932,init,2026-07-26 00:34:06,CBP(backup) rank 19
+7,,node_0149,41617,init,2026-07-26 00:34:06,CBP(backup) rank 20
+7,block_0656,node_0219,5424,promoted-out,2026-07-26 00:34:07,promoted to replace node_0500
+7,block_0656,node_0500,8926,enqueued,2026-07-26 00:34:07,appended to backups queue (no cooldown)
+7,block_0678,node_0305,3537,promoted-out,2026-07-26 00:34:07,promoted to replace node_0303
+7,block_0678,node_0303,12223,enqueued,2026-07-26 00:34:07,appended to backups queue (no cooldown)
+8,,node_0303,75300,init,2026-07-26 00:34:07,CBP(backup) rank 1
+8,,node_0377,72402,init,2026-07-26 00:34:07,CBP(backup) rank 2
+8,,node_0343,62076,init,2026-07-26 00:34:07,CBP(backup) rank 3
+8,,node_0249,58814,init,2026-07-26 00:34:07,CBP(backup) rank 4
+8,,node_0487,58505,init,2026-07-26 00:34:07,CBP(backup) rank 5
+8,,node_0053,58488,init,2026-07-26 00:34:07,CBP(backup) rank 6
+8,,node_0177,57901,init,2026-07-26 00:34:07,CBP(backup) rank 7
+8,,node_0112,57317,init,2026-07-26 00:34:07,CBP(backup) rank 8
+8,,node_0115,57141,init,2026-07-26 00:34:07,CBP(backup) rank 9
+8,,node_0346,57009,init,2026-07-26 00:34:07,CBP(backup) rank 10
+8,,node_0175,53916,init,2026-07-26 00:34:07,CBP(backup) rank 11
+8,,node_0491,53669,init,2026-07-26 00:34:07,CBP(backup) rank 12
+8,,node_0168,52871,init,2026-07-26 00:34:07,CBP(backup) rank 13
+8,,node_0021,52340,init,2026-07-26 00:34:07,CBP(backup) rank 14
+8,,node_0180,49992,init,2026-07-26 00:34:07,CBP(backup) rank 15
+8,,node_0393,45857,init,2026-07-26 00:34:07,CBP(backup) rank 16
+8,,node_0006,45620,init,2026-07-26 00:34:07,CBP(backup) rank 17
+8,,node_0424,43994,init,2026-07-26 00:34:07,CBP(backup) rank 18
+8,,node_0277,42961,init,2026-07-26 00:34:07,CBP(backup) rank 19
+8,,node_0026,39831,init,2026-07-26 00:34:07,CBP(backup) rank 20
+8,block_0701,node_0303,12001,promoted-out,2026-07-26 00:34:07,promoted to replace node_0365
+8,block_0701,node_0365,9652,cooldown,2026-07-26 00:34:07,waits 5 rounds before rejoining backups
+8,block_0703,node_0377,7273,promoted-out,2026-07-26 00:34:07,promoted to replace node_0448
+8,block_0703,node_0448,13221,cooldown,2026-07-26 00:34:07,waits 5 rounds before rejoining backups
+8,block_0722,node_0343,11418,promoted-out,2026-07-26 00:34:07,promoted to replace node_0128
+8,block_0722,node_0128,7919,cooldown,2026-07-26 00:34:07,waits 5 rounds before rejoining backups
+8,block_0723,node_0249,3444,promoted-out,2026-07-26 00:34:07,promoted to replace node_0377
+8,block_0723,node_0377,6786,cooldown,2026-07-26 00:34:07,waits 5 rounds before rejoining backups
+8,block_0742,node_0487,6219,promoted-out,2026-07-26 00:34:08,promoted to replace node_0343
+8,block_0742,node_0343,11294,enqueued,2026-07-26 00:34:08,appended to backups queue (no cooldown)
+8,block_0750,node_0365,9350,rejoin,2026-07-26 00:34:08,cooldown complete; back in backups queue
+8,block_0750,node_0448,13232,rejoin,2026-07-26 00:34:08,cooldown complete; back in backups queue
+8,block_0765,node_0053,7494,promoted-out,2026-07-26 00:34:08,promoted to replace node_0444
+8,block_0765,node_0444,12430,cooldown,2026-07-26 00:34:08,waits 5 rounds before rejoining backups
+8,block_0770,node_0128,7878,rejoin,2026-07-26 00:34:08,cooldown complete; back in backups queue
+8,block_0770,node_0377,6897,rejoin,2026-07-26 00:34:08,cooldown complete; back in backups queue
+8,block_0785,node_0177,10818,promoted-out,2026-07-26 00:34:08,promoted to replace node_0053
+8,block_0785,node_0053,7665,enqueued,2026-07-26 00:34:08,appended to backups queue (no cooldown)
+9,,node_0471,88750,init,2026-07-26 00:34:08,CBP(backup) rank 1
+9,,node_0122,87964,init,2026-07-26 00:34:08,CBP(backup) rank 2
+9,,node_0083,85452,init,2026-07-26 00:34:08,CBP(backup) rank 3
+9,,node_0449,83112,init,2026-07-26 00:34:08,CBP(backup) rank 4
+9,,node_0141,79750,init,2026-07-26 00:34:08,CBP(backup) rank 5
+9,,node_0443,78427,init,2026-07-26 00:34:08,CBP(backup) rank 6
+9,,node_0007,76134,init,2026-07-26 00:34:08,CBP(backup) rank 7
+9,,node_0008,75400,init,2026-07-26 00:34:08,CBP(backup) rank 8
+9,,node_0268,73875,init,2026-07-26 00:34:08,CBP(backup) rank 9
+9,,node_0394,71188,init,2026-07-26 00:34:08,CBP(backup) rank 10
+9,,node_0258,69149,init,2026-07-26 00:34:08,CBP(backup) rank 11
+9,,node_0293,67604,init,2026-07-26 00:34:08,CBP(backup) rank 12
+9,,node_0017,66506,init,2026-07-26 00:34:08,CBP(backup) rank 13
+9,,node_0069,57368,init,2026-07-26 00:34:08,CBP(backup) rank 14
+9,,node_0379,53089,init,2026-07-26 00:34:08,CBP(backup) rank 15
+9,,node_0101,51740,init,2026-07-26 00:34:08,CBP(backup) rank 16
+9,,node_0110,44399,init,2026-07-26 00:34:08,CBP(backup) rank 17
+9,,node_0418,44302,init,2026-07-26 00:34:08,CBP(backup) rank 18
+9,,node_0173,44256,init,2026-07-26 00:34:08,CBP(backup) rank 19
+9,,node_0345,44196,init,2026-07-26 00:34:08,CBP(backup) rank 20
+9,block_0811,node_0471,4113,promoted-out,2026-07-26 00:34:08,promoted to replace node_0238
+9,block_0811,node_0238,12965,cooldown,2026-07-26 00:34:08,waits 5 rounds before rejoining backups
+9,block_0822,node_0122,2884,promoted-out,2026-07-26 00:34:09,promoted to replace node_0442
+9,block_0822,node_0442,9951,cooldown,2026-07-26 00:34:09,waits 5 rounds before rejoining backups
+9,block_0827,node_0083,3208,promoted-out,2026-07-26 00:34:09,promoted to replace node_0046
+9,block_0827,node_0046,3980,enqueued,2026-07-26 00:34:09,appended to backups queue (no cooldown)
+9,block_0833,node_0449,6954,promoted-out,2026-07-26 00:34:09,promoted to replace node_0253
+9,block_0833,node_0253,11756,enqueued,2026-07-26 00:34:09,appended to backups queue (no cooldown)
+9,block_0835,node_0141,8387,promoted-out,2026-07-26 00:34:09,promoted to replace node_0305
+9,block_0835,node_0305,4277,cooldown,2026-07-26 00:34:09,waits 5 rounds before rejoining backups
+9,block_0860,node_0238,13372,rejoin,2026-07-26 00:34:09,cooldown complete; back in backups queue
+9,block_0867,node_0443,3571,promoted-out,2026-07-26 00:34:09,promoted to replace node_0083
+9,block_0867,node_0083,3162,enqueued,2026-07-26 00:34:09,appended to backups queue (no cooldown)
+9,block_0870,node_0442,9964,rejoin,2026-07-26 00:34:09,cooldown complete; back in backups queue
+9,block_0880,node_0305,4778,rejoin,2026-07-26 00:34:09,cooldown complete; back in backups queue
+9,block_0881,node_0007,6008,promoted-out,2026-07-26 00:34:09,promoted to replace node_0471
+9,block_0881,node_0471,4944,cooldown,2026-07-26 00:34:09,waits 5 rounds before rejoining backups
+9,block_0897,node_0008,795,promoted-out,2026-07-26 00:34:09,promoted to replace node_0443
+9,block_0897,node_0443,3388,cooldown,2026-07-26 00:34:09,waits 5 rounds before rejoining backups
+10,,node_0381,69640,init,2026-07-26 00:34:10,CBP(backup) rank 1
+10,,node_0448,67410,init,2026-07-26 00:34:10,CBP(backup) rank 2
+10,,node_0375,66639,init,2026-07-26 00:34:10,CBP(backup) rank 3
+10,,node_0089,65593,init,2026-07-26 00:34:10,CBP(backup) rank 4
+10,,node_0395,63795,init,2026-07-26 00:34:10,CBP(backup) rank 5
+10,,node_0383,63667,init,2026-07-26 00:34:10,CBP(backup) rank 6
+10,,node_0262,60578,init,2026-07-26 00:34:10,CBP(backup) rank 7
+10,,node_0224,60332,init,2026-07-26 00:34:10,CBP(backup) rank 8
+10,,node_0274,59817,init,2026-07-26 00:34:10,CBP(backup) rank 9
+10,,node_0105,58411,init,2026-07-26 00:34:10,CBP(backup) rank 10
+10,,node_0271,56459,init,2026-07-26 00:34:10,CBP(backup) rank 11
+10,,node_0466,54196,init,2026-07-26 00:34:10,CBP(backup) rank 12
+10,,node_0259,53863,init,2026-07-26 00:34:10,CBP(backup) rank 13
+10,,node_0098,53686,init,2026-07-26 00:34:10,CBP(backup) rank 14
+10,,node_0245,53208,init,2026-07-26 00:34:10,CBP(backup) rank 15
+10,,node_0073,51265,init,2026-07-26 00:34:10,CBP(backup) rank 16
+10,,node_0309,49394,init,2026-07-26 00:34:10,CBP(backup) rank 17
+10,,node_0373,49137,init,2026-07-26 00:34:10,CBP(backup) rank 18
+10,,node_0266,48669,init,2026-07-26 00:34:10,CBP(backup) rank 19
+10,,node_0008,48606,init,2026-07-26 00:34:10,CBP(backup) rank 20
