@@ -1,0 +1,4 @@
+Election_ID,n,m,k,subsidy, remarks
+1,10,40,80,128, 222 nodes flagged True (> m+k=120)
+2,10,40,80,128, 187 nodes flagged True (> m+k=120)
+3,10,40,80,128, 184 nodes flagged True (> m+k=120)
