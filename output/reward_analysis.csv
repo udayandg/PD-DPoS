@@ -1,0 +1,9 @@
+comparison,type,group,total,count,share_pct,mean_per_recipient,cross_diff,cross_ratio,cross_pct_change
+PDDPoS: BP vs Voter,PDDPoS,BP,291529.62,902,47.54,323.2,,,
+PDDPoS: BP vs Voter,PDDPoS,Voter,321664.33,2306,52.46,139.49,,,
+DPoS: BP vs Voter,DPoS,BP,260764.82,902,42.52,289.1,,,
+DPoS: BP vs Voter,DPoS,Voter,352513.31,2953,57.48,119.37,,,
+BP: DPoS vs PDDPoS,DPoS,BP,260764.82,,,,-30764.8,0.8945,-10.55
+BP: DPoS vs PDDPoS,PDDPoS,BP,291529.62,,,,-30764.8,0.8945,-10.55
+Voter: DPoS vs PDDPoS,DPoS,Voter,352513.31,,,,30848.98,1.0959,9.59
+Voter: DPoS vs PDDPoS,PDDPoS,Voter,321664.33,,,,30848.98,1.0959,9.59
